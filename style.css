@@ -1,0 +1,400 @@
+
+
+/*небольшое мобильное устройство*/
+
+@media(min-width:320px) {
+
+body {	
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 140px;
+	background-position-x: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+section {
+	padding:30px 20px 30px 20px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 280px;
+}
+
+p {
+	line-height: 25px;
+	font-size: 15px;
+	text-align: justify;
+	text-indent: 20px;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 15px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*среднее мобильное устройство*/
+
+@media(min-width:375px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 160px;
+	background-position-x: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+section {
+	padding: 50px 20px 50px 20px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 320px;
+}
+
+p {
+	line-height: 30px;
+	font-size: 16px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 18px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*большой телефон*/
+
+@media(min-width:425px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 200px;
+	background-position-x: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+section {
+	padding: 50px 30px 50px 30px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 370px;
+}
+
+p {
+	line-height: 30px;
+	font-size: 16.05px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 22px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*планшет*/
+
+@media(min-width:768px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 300px;
+	background-position-x: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+section {
+	padding: 50px 100px 50px 100px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 600px;
+}
+
+p {
+	line-height: 35px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 30px;
+}
+
+}
+
+
+/*ноутбук*/
+
+@media(min-width:1024px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 400px;
+	background-position-x: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+section {
+	padding: 50px 100px 50px 100px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 850px;
+}
+
+p {
+	line-height: 35px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 30px;
+}
+
+}
+
+
+/*комп*/
+@media(min-width:1440px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+section {
+	padding: 50px 400px 50px 400px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 850px;
+}
+
+p {
+	line-height: 35px;
+	font-size: 20px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 30px;
+}
+
+}
+
+
+
+
+
+
+
+/*телик*/
+
+@media(min-width:2560px) {
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+header {
+	background-image: url("https://cdn2.unrealengine.com/lego-fortnite-1900x600-1f65fff0da7f.jpg");
+	width: 100%;
+	height: 900px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+section {
+	padding: 50px 400px 50px 400px;
+	width: 100%;
+	box-sizing: border-box;
+	height: auto;
+}
+
+img {
+	width: 1700px;
+}
+
+p {
+	line-height: 71px;
+	font-size: 40px;
+	text-align: justify;
+}
+
+h1, h2 {
+	font-weight: 900;
+	font-size: 60px;
+}
+
+a {
+	font-size: 40px;
+}
+
+
+
+
+}
+
+
